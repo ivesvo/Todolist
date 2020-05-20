@@ -1,0 +1,65 @@
+/* .checked {
+    text-decoration: line-through;
+  }
+   */
+
+/* 
+
+input[type="checkbox"]:checked + input[type="text"], .strike {
+    text-decoration:line-through;
+  } */
+body{
+  font-family: 'Gothic A1', sans-serif;
+  font-size: 40px;
+}
+h1{
+  padding: 4%;
+  font-weight:bolder;
+  color: 
+}
+input{
+  width: 400px;
+
+}
+
+
+ul{
+  list-style-type: none;
+}
+
+.vertical-align:{
+  align-items: center;
+}
+
+.content{
+  font-size: 20px;
+  padding-top: 5em;
+}
+
+
+.input{
+  width: 100%;
+   max-width: 360px;
+   box-sizing: border-box;
+
+}
+
+
+.col-md-6 .offset-md-3{
+  margin-left: 20px;
+  margin-right:20px;
+}
+
+.content-wrap{
+  margin-left:20px;
+  margin-right: 20px;
+}
+
+.buttonarea{
+  padding-top: 4%;
+}
+
+.todolist{
+  padding-top: 5%;
+  display: block;
+}
